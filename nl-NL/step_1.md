@@ -1,6 +1,6 @@
-Comments help to explain the code. They are written in different ways for HTML and CSS.
+Opmerkingen helpen om de code uit te leggen. Ze worden op verschillende manieren geschreven voor HTML en CSS.
 
-A comment in a HTML file starts `<!--` and ends `-->`.
+Een opmerking in een HTML-bestand start met `<!--` en eindigt met `-->`.
 
 ## --- code ---
 
@@ -13,7 +13,7 @@ line_numbers: false
 
 \--- /code ---
 
-A comment in a CSS file starts `/*` and ends `*/`.
+Een opmerking in een CSS-bestand begint met `/*` en eindigt met `*/`.
 
 ## --- code ---
 
@@ -22,6 +22,6 @@ filename: style.css
 line_numbers: false
 --------------------------------------------------------
 
-/\* This is a CSS comment \*/
+/\* Dit is een CSS-opmerking \*/
 
 \--- /code ---\`
