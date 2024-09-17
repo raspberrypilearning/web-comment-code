@@ -22,6 +22,6 @@ filename: style.css
 line_numbers: false
 --------------------------------------------------------
 
-/\* Ceci est un commentaire \*/
+/\* Ceci est un commentaire CSS \*/
 
 \--- /code ---\`
